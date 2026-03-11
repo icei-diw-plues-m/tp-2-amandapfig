@@ -7,5 +7,5 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
+![Print da página Curriculum Vitae](img.png)
 
-`<Coloque aqui o print da tela do Curriculum Vitae>`
